@@ -1,4 +1,6 @@
 # part1
+**requiremnts.txt is not uploaded as txt file**
+
 1. Data Loading and Initial Inspection
 Loading Datasets: Six different CSV files (web_events, churn, customer, intervention, orders, support, rfm_modeling_snapshot) 
 Initial Overview: The shape (.shape) and information (.info()) of each DataFrame are printed to understand their structure, column types, and initial non-null counts.
